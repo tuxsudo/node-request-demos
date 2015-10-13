@@ -21,3 +21,14 @@ http.createServer( function(clientReq, myResponse) {
 
 
 console.log('Try: http://localhost:8089/zip');
+
+
+
+
+/* Questions:
+
+
+How does this scale?
+
+
+*/

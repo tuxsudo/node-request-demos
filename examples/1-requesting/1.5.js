@@ -13,3 +13,10 @@ request({ uri: 'http://api.wunderground.com/api/fbd0230b3e8fd897/geolookup/q/840
 
 
 
+/* Questions:
+
+
+Why use promises instead of streams or callbacks?
+
+
+*/

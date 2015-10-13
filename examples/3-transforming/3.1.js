@@ -49,3 +49,13 @@ var server = app.listen(3000, function () {
 	console.log('Example app listening at http://localhost:%s/api/v1/locations/90210', server.address().port);
 
 });
+
+
+
+
+/* Observation
+
+Payload differences
+
+
+*/

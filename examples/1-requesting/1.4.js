@@ -1,5 +1,5 @@
 // Using the request module https://www.npmjs.com/package/request
-// passing in callback
+// (with callbacks)
 var request = require('request');
 
 request.get('http://www.lds.org/path/not/found.json', function (error, response, body) {
@@ -17,3 +17,14 @@ request.get('http://www.lds.org/path/not/found.json', function (error, response,
 
 });
 
+
+
+/* Questions:
+
+
+What do callbacks allow that streams may not?
+
+
+
+
+*/

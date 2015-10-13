@@ -15,3 +15,19 @@ var server = app.listen(3000, function () {
 	console.log('Example app listening at http://localhost:%s/api/v1/locations/:zipcode', server.address().port);
 
 });
+
+
+
+/* Questions
+
+
+Who is familiar with Express?
+
+Who can desribe what's happening?
+
+What does Express make easier?
+
+Does this scale better?
+
+
+*/

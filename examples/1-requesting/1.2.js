@@ -1,9 +1,6 @@
 /*
 
-Simplest Request
-
-Make remote request; pipe response to file...
-
+HTTP request with options
 
 Only core modules, no dependencies other than node.
 
@@ -28,3 +25,15 @@ http.request(
   	}
 
 ).end();
+
+
+/* Questions:
+
+
+What's the difference between this example and the last (1.1.js)?
+
+What problems or difficulties might you have if you only used the core `http` module?
+
+
+
+*/
