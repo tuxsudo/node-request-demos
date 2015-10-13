@@ -1,0 +1,355 @@
+{
+	"response": {
+		"version": "0.1",
+		"termsofService": "http://www.wunderground.com/weather/api/d/terms.html",
+		"features": {
+			"geolookup": 1
+		}
+	},
+	"location": {
+		"type": "CITY",
+		"country": "US",
+		"country_iso3166": "US",
+		"country_name": "USA",
+		"state": "UT",
+		"city": "South Jordan",
+		"tz_short": "MDT",
+		"tz_long": "America/Denver",
+		"lat": "40.55820084",
+		"lon": "-111.95136261",
+		"zip": "84095",
+		"magic": "1",
+		"wmo": "99999",
+		"l": "/q/zmw:84095.1.99999",
+		"requesturl": "US/UT/South_Jordan.html",
+		"wuiurl": "http://www.wunderground.com/US/UT/South_Jordan.html",
+		"nearby_weather_stations": {
+			"airport": {
+				"station": [{
+					"city": "Salt Lake City Municipal",
+					"state": "UT",
+					"country": "US",
+					"icao": "KU42",
+					"lat": "40.61999893",
+					"lon": "-112.00000000"
+				}, {
+					"city": "Salt Lake City",
+					"state": "UT",
+					"country": "US",
+					"icao": "KSLC",
+					"lat": "40.77069092",
+					"lon": "-111.96502686"
+				}, {
+					"city": "",
+					"state": "",
+					"country": "",
+					"icao": "",
+					"lat": "",
+					"lon": ""
+				}, {
+					"city": "Provo",
+					"state": "UT",
+					"country": "US",
+					"icao": "KPVU",
+					"lat": "40.21919250",
+					"lon": "-111.72335815"
+				}]
+			},
+			"pws": {
+				"station": [{
+					"neighborhood": "Jordan Haven Ct",
+					"city": "South Jordan",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTSOUTH29",
+					"lat": 40.570667,
+					"lon": -111.950478,
+					"distance_km": 1,
+					"distance_mi": 0
+				}, {
+					"neighborhood": "",
+					"city": "South Jordan",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTSOUTH16",
+					"lat": 40.573471,
+					"lon": -111.950661,
+					"distance_km": 1,
+					"distance_mi": 1
+				}, {
+					"neighborhood": "KUTSOUTH11",
+					"city": "South Jordan",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTSOUTH11",
+					"lat": 40.572975,
+					"lon": -111.957733,
+					"distance_km": 1,
+					"distance_mi": 1
+				}, {
+					"neighborhood": "South Jordan - Royal Tee Cove",
+					"city": "South Jordan",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTSOUTH20",
+					"lat": 40.560738,
+					"lon": -111.926590,
+					"distance_km": 2,
+					"distance_mi": 1
+				}, {
+					"neighborhood": "Jones Farm",
+					"city": "South Jordan",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTSOUTH25",
+					"lat": 40.568829,
+					"lon": -111.972145,
+					"distance_km": 2,
+					"distance_mi": 1
+				}, {
+					"neighborhood": "Alan Point Drive",
+					"city": "Draper",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTDRAPE23",
+					"lat": 40.536686,
+					"lon": -111.913795,
+					"distance_km": 3,
+					"distance_mi": 2
+				}, {
+					"neighborhood": "Daybreak",
+					"city": "South Jordan",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTSOUTH17",
+					"lat": 40.561298,
+					"lon": -111.999245,
+					"distance_km": 4,
+					"distance_mi": 2
+				}, {
+					"neighborhood": "Jordan River Parkway Trail",
+					"city": "Riverton",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTRIVER15",
+					"lat": 40.530998,
+					"lon": -111.917915,
+					"distance_km": 4,
+					"distance_mi": 2
+				}, {
+					"neighborhood": "Daybreak",
+					"city": "South Jordan",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTSOUTH21",
+					"lat": 40.542919,
+					"lon": -111.998047,
+					"distance_km": 4,
+					"distance_mi": 2
+				}, {
+					"neighborhood": "APRSWXNET",
+					"city": "Herriman",
+					"state": "UT",
+					"country": "US",
+					"id": "MAT693",
+					"lat": 40.525799,
+					"lon": -111.923492,
+					"distance_km": 4,
+					"distance_mi": 2
+				}, {
+					"neighborhood": "KUTRIVER1",
+					"city": "Riverton",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTRIVER1",
+					"lat": 40.522305,
+					"lon": -111.929199,
+					"distance_km": 4,
+					"distance_mi": 2
+				}, {
+					"neighborhood": "West Jordan",
+					"city": "West Jordan",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTWESTJ17",
+					"lat": 40.591160,
+					"lon": -111.982719,
+					"distance_km": 4,
+					"distance_mi": 2
+				}, {
+					"neighborhood": "Arbor Sandy Center",
+					"city": "Sandy",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTSANDY35",
+					"lat": 40.570019,
+					"lon": -111.894485,
+					"distance_km": 4,
+					"distance_mi": 2
+				}, {
+					"neighborhood": "MesoWest",
+					"city": "West Jordan",
+					"state": "UT",
+					"country": "US",
+					"id": "MMSI03",
+					"lat": 40.600800,
+					"lon": -111.971703,
+					"distance_km": 5,
+					"distance_mi": 3
+				}, {
+					"neighborhood": "South Harvest Spring Lane",
+					"city": "Riverton",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTRIVER12",
+					"lat": 40.523598,
+					"lon": -111.993668,
+					"distance_km": 5,
+					"distance_mi": 3
+				}, {
+					"neighborhood": "KUTWESTJ13 Pheasant Run",
+					"city": "West Jordan",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTWESTJ13",
+					"lat": 40.603130,
+					"lon": -111.975670,
+					"distance_km": 5,
+					"distance_mi": 3
+				}, {
+					"neighborhood": "West Jordan-Angel Landing",
+					"city": "West Jordan",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTWESTJ10",
+					"lat": 40.608376,
+					"lon": -111.953163,
+					"distance_km": 5,
+					"distance_mi": 3
+				}, {
+					"neighborhood": "APRSWXNET",
+					"city": "Riverton",
+					"state": "UT",
+					"country": "US",
+					"id": "MC8880",
+					"lat": 40.506672,
+					"lon": -111.949997,
+					"distance_km": 5,
+					"distance_mi": 3
+				}, {
+					"neighborhood": "APRSWXNET",
+					"city": "Draper",
+					"state": "UT",
+					"country": "US",
+					"id": "MD3469",
+					"lat": 40.530319,
+					"lon": -111.885674,
+					"distance_km": 6,
+					"distance_mi": 3
+				}, {
+					"neighborhood": "Greenfield Farms",
+					"city": "Draper",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTDRAPE6",
+					"lat": 40.515045,
+					"lon": -111.898499,
+					"distance_km": 6,
+					"distance_mi": 3
+				}, {
+					"neighborhood": "Brickerhaven Estates Draper UT",
+					"city": "Draper",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTDRAPE12",
+					"lat": 40.512573,
+					"lon": -111.901550,
+					"distance_km": 6,
+					"distance_mi": 3
+				}, {
+					"neighborhood": "Camden Park",
+					"city": "Draper",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTDRAPE28",
+					"lat": 40.541992,
+					"lon": -111.875397,
+					"distance_km": 6,
+					"distance_mi": 3
+				}, {
+					"neighborhood": "N6QIH/KB6UGR WX Now",
+					"city": "Draper",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTDRAPE11",
+					"lat": 40.512508,
+					"lon": -111.897415,
+					"distance_km": 6,
+					"distance_mi": 4
+				}, {
+					"neighborhood": "Sandy",
+					"city": "Sandy",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTSANDY11",
+					"lat": 40.576008,
+					"lon": -111.871353,
+					"distance_km": 7,
+					"distance_mi": 4
+				}, {
+					"neighborhood": "NonFedAWOS",
+					"city": "West Jordan",
+					"state": "UT",
+					"country": "US",
+					"id": "MKU42",
+					"lat": 40.619499,
+					"lon": -111.992828,
+					"distance_km": 7,
+					"distance_mi": 4
+				}, {
+					"neighborhood": "Bluewing Way",
+					"city": "Riverton",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTRIVER9",
+					"lat": 40.503902,
+					"lon": -112.013374,
+					"distance_km": 7,
+					"distance_mi": 4
+				}, {
+					"neighborhood": "Brookshire Estates",
+					"city": "Taylorsville",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTTAYLO11",
+					"lat": 40.632259,
+					"lon": -111.932457,
+					"distance_km": 8,
+					"distance_mi": 5
+				}, {
+					"neighborhood": "Hidden Valley Drive",
+					"city": "Sandy",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTSANDY31",
+					"lat": 40.533482,
+					"lon": -111.856186,
+					"distance_km": 8,
+					"distance_mi": 5
+				}, {
+					"neighborhood": "Quail Point",
+					"city": "Sandy",
+					"state": "UT",
+					"country": "US",
+					"id": "KUTSANDY9",
+					"lat": 40.585709,
+					"lon": -111.855103,
+					"distance_km": 8,
+					"distance_mi": 5
+				}]
+			}
+		}
+	}
+
+}
+

@@ -1,0 +1,16 @@
+{
+  "name": "momo-dashboard",
+  "version": "1.0.0",
+  "description": "A Mormon dashboard",
+  "main": "bin/www",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mormon",
+    "dashboard"
+  ],
+  "author": "Jared Anderson @tuxsudo",
+  "license": "ISC",
+  "dependencies": {}
+}

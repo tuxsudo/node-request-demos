@@ -1,0 +1,23 @@
+{
+  "name": "1-requesting",
+  "version": "1.0.0",
+  "description": "Aggregating Services with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tutorials",
+    "node",
+    "http",
+    "requests",
+    "api",
+    "services"
+  ],
+  "author": "Jared Anderson <@tuxsudo>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.65.0",
+    "request-promise": "^1.0.0"
+  }
+}

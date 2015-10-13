@@ -1,0 +1,296 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "geolookup": 1
+  }
+	}
+		,	"location": {
+		"type":"CITY",
+		"country":"US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"state":"CA",
+		"city":"Modesto",
+		"tz_short":"PDT",
+		"tz_long":"America/Los_Angeles",
+		"lat":"37.67745590",
+		"lon":"-120.94564056",
+		"zip":"95355",
+		"magic":"1",
+		"wmo":"99999",
+		"l":"/q/zmw:95355.1.99999",
+		"requesturl":"US/CA/Modesto.html",
+		"wuiurl":"http://www.wunderground.com/US/CA/Modesto.html",
+		"nearby_weather_stations": {
+		"airport": {
+		"station": [
+		{ "city":"Modesto", "state":"CA", "country":"US", "icao":"KMOD", "lat":"37.62416840", "lon":"-120.95055389" }
+		,{ "city":"Stockton", "state":"CA", "country":"US", "icao":"KSCK", "lat":"37.88909912", "lon":"-121.22579956" }
+		,{ "city":"Atwater", "state":"CA", "country":"US", "icao":"KMER", "lat":"37.38047028", "lon":"-120.56819153" }
+		,{ "city":"Merced", "state":"CA", "country":"US", "icao":"KMCE", "lat":"37.28475189", "lon":"-120.51391602" }
+		]
+		}
+		,
+		"pws": {
+		"station": [
+		{
+		"neighborhood":"Sonoma Ave",
+		"city":"Modesto",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAMODES21",
+		"lat":37.658054,
+		"lon":-120.947189,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Sylvan",
+		"city":"Modesto",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAMODES9",
+		"lat":37.689445,
+		"lon":-120.921669,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Sherwood Forest",
+		"city":"Modesto",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAMODES12",
+		"lat":37.686089,
+		"lon":-120.987343,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"North Morton Boulevard",
+		"city":"Modesto",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAMODES23",
+		"lat":37.642075,
+		"lon":-120.986404,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Tully at Standiford",
+		"city":"Modesto",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAMODES16",
+		"lat":37.688030,
+		"lon":-121.009483,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Carver RD @ Rumble RD",
+		"city":"Modesto",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAMODES17",
+		"lat":37.681129,
+		"lon":-121.022636,
+		"distance_km":6,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"APRSWXNET",
+		"city":"Riverbank",
+		"state":"CA",
+		"country":"US",
+		"id":"MD7479",
+		"lat":37.743488,
+		"lon":-120.933617,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Hatch Rd. near Boothe Rd",
+		"city":"Ceres",
+		"state":"CA",
+		"country":"US",
+		"id":"KCACERES6",
+		"lat":37.607895,
+		"lon":-120.932678,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Prescott Road",
+		"city":"Modesto",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAMODES27",
+		"lat":37.699188,
+		"lon":-121.030663,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Central Ceres",
+		"city":"Ceres",
+		"state":"CA",
+		"country":"US",
+		"id":"KCACERES4",
+		"lat":37.599510,
+		"lon":-120.955109,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"APRSWXNET",
+		"city":"Valley Home",
+		"state":"CA",
+		"country":"US",
+		"id":"ME4850",
+		"lat":37.765171,
+		"lon":-120.861000,
+		"distance_km":12,
+		"distance_mi":7
+		},
+		{
+		"neighborhood":"Reinman Ct",
+		"city":"Oakdale",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKDA13",
+		"lat":37.774498,
+		"lon":-120.860794,
+		"distance_km":13,
+		"distance_mi":7
+		},
+		{
+		"neighborhood":"APRSWXNET",
+		"city":"Escalon",
+		"state":"CA",
+		"country":"US",
+		"id":"ME0430",
+		"lat":37.798000,
+		"lon":-120.994667,
+		"distance_km":14,
+		"distance_mi":8
+		},
+		{
+		"neighborhood":"FOOTHILL OAKS GATED RETIREMENT COMMUNITY",
+		"city":"Oakdale",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKDA11",
+		"lat":37.769787,
+		"lon":-120.832283,
+		"distance_km":14,
+		"distance_mi":8
+		},
+		{
+		"neighborhood":"Ripon North",
+		"city":"Ripon",
+		"state":"CA",
+		"country":"US",
+		"id":"KCARIPON2",
+		"lat":37.765171,
+		"lon":-121.111275,
+		"distance_km":17,
+		"distance_mi":10
+		},
+		{
+		"neighborhood":"Ripon South",
+		"city":"Ripon",
+		"state":"CA",
+		"country":"US",
+		"id":"KCARIPON3",
+		"lat":37.732403,
+		"lon":-121.139038,
+		"distance_km":18,
+		"distance_mi":10
+		},
+		{
+		"neighborhood":"HammerHeads Clubhouse Oakdale",
+		"city":"Oakdale",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKDA12",
+		"lat":37.789619,
+		"lon":-120.788315,
+		"distance_km":18,
+		"distance_mi":11
+		},
+		{
+		"neighborhood":"East Oakdale",
+		"city":"Oakdale",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKDA6",
+		"lat":37.783428,
+		"lon":-120.777405,
+		"distance_km":18,
+		"distance_mi":11
+		},
+		{
+		"neighborhood":"Woodward Reservoir",
+		"city":"Oakdale",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKDA10",
+		"lat":37.857616,
+		"lon":-120.890785,
+		"distance_km":20,
+		"distance_mi":12
+		},
+		{
+		"neighborhood":"Knights Ferry Hills",
+		"city":"Knights Ferry",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAKNIGH2",
+		"lat":37.826565,
+		"lon":-120.731781,
+		"distance_km":25,
+		"distance_mi":15
+		},
+		{
+		"neighborhood":"Lorelei Lane",
+		"city":"Patterson",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAPATTE6",
+		"lat":37.479221,
+		"lon":-121.122536,
+		"distance_km":26,
+		"distance_mi":16
+		},
+		{
+		"neighborhood":"APRSWXNET",
+		"city":"Manteca",
+		"state":"CA",
+		"country":"US",
+		"id":"ME6495",
+		"lat":37.810001,
+		"lon":-121.206329,
+		"distance_km":27,
+		"distance_mi":16
+		},
+		{
+		"neighborhood":"VFWS01",
+		"city":"Denair",
+		"state":"CA",
+		"country":"US",
+		"id":"KCADENAI2",
+		"lat":37.513229,
+		"lon":-120.710327,
+		"distance_km":27,
+		"distance_mi":16
+		}
+		]
+		}
+		}
+	}
+}

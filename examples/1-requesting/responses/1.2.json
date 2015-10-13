@@ -1,0 +1,406 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "geolookup": 1
+  }
+	}
+		,	"location": {
+		"type":"CITY",
+		"country":"US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"state":"AZ",
+		"city":"Chandler",
+		"tz_short":"MST",
+		"tz_long":"America/Phoenix",
+		"lat":"33.30876923",
+		"lon":"-111.92140198",
+		"zip":"85226",
+		"magic":"1",
+		"wmo":"99999",
+		"l":"/q/zmw:85226.1.99999",
+		"requesturl":"US/AZ/Chandler.html",
+		"wuiurl":"http://www.wunderground.com/US/AZ/Chandler.html",
+		"nearby_weather_stations": {
+		"airport": {
+		"station": [
+		{ "city":"Chandler", "state":"AZ", "country":"US", "icao":"KCHD", "lat":"33.26911163", "lon":"-111.81111145" }
+		,{ "city":"Phoenix", "state":"AZ", "country":"US", "icao":"KPHX", "lat":"33.42770004", "lon":"-112.00379944" }
+		,{ "city":"Phoenix-Mesa Gateway Airport", "state":"AZ", "country":"US", "icao":"KIWA", "lat":"33.30783463", "lon":"-111.65547180" }
+		,{ "city":"Mesa", "state":"AZ", "country":"US", "icao":"KFFZ", "lat":"33.46083450", "lon":"-111.72833252" }
+		]
+		}
+		,
+		"pws": {
+		"station": [
+		{
+		"neighborhood":"West Buffalo Street",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND119",
+		"lat":33.303833,
+		"lon":-111.926933,
+		"distance_km":0,
+		"distance_mi":0
+		},
+		{
+		"neighborhood":"North Ponderosa Avenue",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND111",
+		"lat":33.314240,
+		"lon":-111.932594,
+		"distance_km":1,
+		"distance_mi":0
+		},
+		{
+		"neighborhood":"Park Promenade",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND62",
+		"lat":33.319191,
+		"lon":-111.917801,
+		"distance_km":1,
+		"distance_mi":0
+		},
+		{
+		"neighborhood":"West Cindy Street",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND86",
+		"lat":33.298302,
+		"lon":-111.937805,
+		"distance_km":1,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Ray & Day, Chandler",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND78",
+		"lat":33.320351,
+		"lon":-111.941048,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"D\u0027Arcy Ranch Chandler",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND101",
+		"lat":33.316845,
+		"lon":-111.898209,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"D\u0027Arcy Ranch .HOA",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND48",
+		"lat":33.318569,
+		"lon":-111.898727,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Warner Ranch",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND75",
+		"lat":33.322037,
+		"lon":-111.942276,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Warner Ranch Phase",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND76",
+		"lat":33.322113,
+		"lon":-111.942230,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Warner Ranch",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND46",
+		"lat":33.317585,
+		"lon":-111.949326,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Alta Mira",
+		"city":"Tempe",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZTEMPE20",
+		"lat":33.331444,
+		"lon":-111.906334,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Galveston",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND19",
+		"lat":33.313602,
+		"lon":-111.883049,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"North Desoto Street",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND116",
+		"lat":33.328915,
+		"lon":-111.890327,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"office",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND83",
+		"lat":33.297070,
+		"lon":-111.958717,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"valley",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND82",
+		"lat":33.297062,
+		"lon":-111.958763,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"testing",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND110",
+		"lat":33.297043,
+		"lon":-111.958763,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Carver Terrace",
+		"city":"Tempe",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZTEMPE44",
+		"lat":33.348263,
+		"lon":-111.920799,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"West Park Avenue",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND96",
+		"lat":33.322235,
+		"lon":-111.872131,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Rural / Guadalupe",
+		"city":"Tempe",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZTEMPE23",
+		"lat":33.359913,
+		"lon":-111.930283,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"West Glenmere Drive",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND106",
+		"lat":33.295876,
+		"lon":-111.857750,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Ahwatukee - Knox - 48th",
+		"city":"Phoenix",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZPHOEN71",
+		"lat":33.324913,
+		"lon":-111.985458,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Ahwatukee Frye/48th",
+		"city":"Phoenix",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZPHOEN166",
+		"lat":33.294651,
+		"lon":-111.986771,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Alma School Rd & Knox Rd in Chandler, AZ",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND32",
+		"lat":33.329350,
+		"lon":-111.856544,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Sun Ray Park Ahwatukee",
+		"city":"Phoenix",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZPHOEN183",
+		"lat":33.318665,
+		"lon":-111.998177,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"APRSWXNET",
+		"city":"Phoenix",
+		"state":"AZ",
+		"country":"US",
+		"id":"ME0209",
+		"lat":33.331169,
+		"lon":-111.994667,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Downtown",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND100",
+		"lat":33.300156,
+		"lon":-111.842529,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Mountain Park Ranch",
+		"city":"Phoenix",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZPHOEN27",
+		"lat":33.310898,
+		"lon":-112.002083,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Ahwatukee",
+		"city":"Phoenix",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZPHOEN272",
+		"lat":33.335289,
+		"lon":-111.998291,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Ahwatukee",
+		"city":"Phoenix",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZPHOEN216",
+		"lat":33.331341,
+		"lon":-112.000771,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Down to Earth Enterprises",
+		"city":"Tempe",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZTEMPE22",
+		"lat":33.373089,
+		"lon":-111.960190,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Ahwatukee",
+		"city":"Phoenix",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZPHOEN242",
+		"lat":33.335812,
+		"lon":-112.002831,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"CVE III",
+		"city":"Tempe",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZTEMPE17",
+		"lat":33.379360,
+		"lon":-111.896133,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Alma School & Queen Creek",
+		"city":"Chandler",
+		"state":"AZ",
+		"country":"US",
+		"id":"KAZCHAND10",
+		"lat":33.265827,
+		"lon":-111.848434,
+		"distance_km":8,
+		"distance_mi":4
+		}
+		]
+		}
+		}
+	}
+}
